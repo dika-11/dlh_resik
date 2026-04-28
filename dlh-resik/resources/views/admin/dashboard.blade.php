@@ -2,7 +2,7 @@
 
 @section('title', 'Dashboard Admin - SIMPELSI')
 @section('page-title', 'Beranda')
-@section('page-title-mobile', 'BERANDA')
+@section('page-title-mobile', 'BERANDA') // tes ajaa
 
 {{-- Fallback variables jika controller tidak mengirim --}}
 @php
